@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on React.JS
-- 🌱 I’m currently learning MERN Stack
+- 🔭 I’m currently exploirng power of JS.
+- 🌱 I’m currently building small projects using vanilla JS.
 <!-- - 👯 I’m looking to collaborate on ... 
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
